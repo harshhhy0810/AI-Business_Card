@@ -6,8 +6,8 @@
 
 body {
     font-family: 'Segoe UI', sans-serif;
-    background: #0f0f1a;
-    color: #ffffff;
+    background: #389df0b7;
+    color: #bd6767;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -29,7 +29,7 @@ body {
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    background: linear-gradient(135deg, #7c3aed, #3b82f6);
+    background: linear-gradient(135deg, #8e74bc, #3b82f6);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -70,8 +70,8 @@ h1 {
 
 /* Section */
 .section {
-    background: #1a1a2e;
-    border: 1px solid #2a2a4a;
+    background: #7a7a9e;
+    border: 1px solid #7676a7;
     border-radius: 16px;
     padding: 30px;
     margin-bottom: 24px;
